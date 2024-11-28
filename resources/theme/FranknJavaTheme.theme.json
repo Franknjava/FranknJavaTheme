@@ -1,0 +1,53 @@
+{
+  "name": "FranknJavaTheme",
+  "author": "adesso SE",
+  "dark": true,
+  "colors": {
+    "background": "#002000",
+    "foreground": "#00FF00",
+    "darker": "#008000"
+  },
+  "ui": {
+    "*": {
+      "background": "background",
+      "foreground": "foreground"
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Blue.Fill": "background",
+      "Blue.Solid": "foreground",
+      "Blue.Stroke": "foreground",
+      "Gray.Fill": "background",
+      "Gray.SecondaryStroke": "darker",
+      "Gray.Solid": "foreground",
+      "Gray.Stroke": "foreground",
+      "Green.Fill": "background",
+      "Green.Solid": "foreground",
+      "Green.Stroke": "foreground",
+      "Orange.Fill": "background",
+      "Orange.Stroke": "foreground",
+      "Purple.Fill": "background",
+      "Purple.Stroke": "foreground",
+      "Teal.Fill": "background",
+      "Teal.Stroke": "foreground",
+      "Tree.iconColor": "foreground",
+      "Tree.iconColorSelected": "darker",
+      "Yellow.Fill": "background",
+      "Yellow.Solid": "foreground",
+      "Yellow.Stroke": "foreground"
+    }
+  },
+  "background": {
+    "image": "terminal.png",
+    "transparency": 100,
+    "fill": "scale",
+    "anchor": "center"
+  },
+  "emptyFrameBackground": {
+    "image": "terminal.png",
+    "transparency": 100,
+    "fill": "scale",
+    "anchor": "center"
+  }
+}
